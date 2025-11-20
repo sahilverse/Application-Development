@@ -5,9 +5,9 @@
 
         // Task 1
         string userName = "Sahil Dahal";
-        int luckeyNumber = 3;
+        int luckyNumber = 3;
 
-        Console.WriteLine($"Hello, {userName}! Your lucky number is {luckeyNumber}.");
+        Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
 
 
         // Task 2
